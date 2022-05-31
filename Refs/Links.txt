@@ -1,0 +1,17 @@
+Research paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Pidhorskyi_Adversarial_Latent_Autoencoders_CVPR_2020_paper.pdf
+
+Notebooks for starters:
+https://www.kaggle.com/code/basu369victor/anime-with-stylegan/notebook
+https://www.kaggle.com/code/basu369victor/anime-with-stylegan-part-ii/notebook
+
+ALAE:
+https://towardsdatascience.com/adversarial-latent-autoencoders-4ce12c0abbdd
+
+Other approaches:
+https://www.tensorflow.org/tutorials/generative/cvae
+
+Github examples:
+https://github.com/davide-coccomini/GAN-Universe
+
+example deployment:
+https://davide-coccomini.github.io/GAN-Universe/
