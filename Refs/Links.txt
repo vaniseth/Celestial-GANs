@@ -4,6 +4,9 @@ Notebooks for starters:
 https://www.kaggle.com/code/basu369victor/anime-with-stylegan/notebook
 https://www.kaggle.com/code/basu369victor/anime-with-stylegan-part-ii/notebook
 
+How to implement GANs:
+https://machinelearningmastery.com/how-to-code-the-generative-adversarial-network-training-algorithm-and-loss-functions/
+
 ALAE:
 https://towardsdatascience.com/adversarial-latent-autoencoders-4ce12c0abbdd
 
